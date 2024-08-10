@@ -7,6 +7,7 @@
 - ⚡ Fun fact: https://excalidraw.com/ is great and https://kagi.com is good for searching.
 - https://learning.oreilly.com is my current space for learning.
 - https://opensource.com
+- https://www.tecmint.com/
 
 <!---
 rasmusgludandersen/rasmusgludandersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
