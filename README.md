@@ -9,6 +9,8 @@
 - https://opensource.com
 - https://www.tecmint.com/
 - https://atuin.sh
+- https://itsfoss.com/
+- https://linuxhandbook.com/
 
 <!---
 rasmusgludandersen/rasmusgludandersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
